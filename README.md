@@ -22,7 +22,7 @@ I'm currently learning the contents required to fulfill the program. This includ
 <a href="https://www.facebook.com/neil.chuggi13" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>  
-</p><br/>
+</p>
 
 ## 🚀 Skills
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
@@ -41,21 +41,8 @@ I'm currently learning the contents required to fulfill the program. This includ
 ## 🎓 Education
 - BRAC University, [Bachelor of Science in Computer Science and Engineering], [September, 2022]
 
-## 📚 Training
-- [List of training courses you've completed]
-- [List of certifications you've earned]
-
-## 🏆 Achievements
-- [List of professional achievements, such as awards, recognitions, or honors]
-- [List of projects you've completed that you're particularly proud of]
-
 ## 📈 GitHub Stats
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=uksaha77&label=Profile%20views&color=0e75b6&style=flat" alt="uksaha77" /> </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=uksaha77&show_icons=true&locale=en" alt="uksaha77" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uksaha77&" alt="uksaha77" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uksaha77" alt="uksaha77" /></a> </p>
-
-## 🏷️ Video Resources
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=hexfXc7-SsU" target="_blank"><img src="http://img.youtube.com/vi/hexfXc7-SsU/0.jpg" alt="10 Udemy Courses Every Developer SHOULD Own" width="200" height="140" border="10" /></a>   <a href="http://www.youtube.com/watch?feature=player_embedded&v=-OAa9k0zCDg" target="_blank"><img src="http://img.youtube.com/vi/-OAa9k0zCDg/0.jpg" alt="Tops 5 skills to get" width="200" height="140" border="10" /></a>
-
-## 💻 Github Repositories
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chakraborty1769&label=Profile%20views&color=0e75b6&style=flat" alt="chakraborty1769" /> </p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=chakraborty1769&show_icons=true&locale=en" alt="chakraborty1769" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chakraborty1769&" alt="chakraborty1769" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chakraborty1769" alt="chakraborty1769" /></a> </p>
