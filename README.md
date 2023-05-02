@@ -44,7 +44,7 @@ I'm currently learning the contents required to fulfill the program. This includ
 - White Services Technology, [Frontend Development Intern], [November, 2022 - March, 2023]<br />
   1. Designing UI for existing software as well as new software being developed
   2. Designed UI of Customer Portal for a client
-  3. Designed POS Software
+  3. Designed POS Software<br>
   <b>Technologies used:</b> [HTML, CSS, Bootstrap, Jquery, AdminLTE Template].
 
 ## 🎓 Education
